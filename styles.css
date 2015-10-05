@@ -1,0 +1,21 @@
+/* line 1, C:/Users/Mike/Desktop/AMM Project/styles.sass */
+.small-dark-title {
+  background: black;
+  color: white;
+  padding: 6px 12px;
+  display: inline-block; }
+
+/* line 7, C:/Users/Mike/Desktop/AMM Project/styles.sass */
+img {
+  max-width: 100%; }
+
+/* line 10, C:/Users/Mike/Desktop/AMM Project/styles.sass */
+.col-secondary {
+  border: 1px solid #eee;
+  border-top: none;
+  border-bottom: none; }
+
+/* line 15, C:/Users/Mike/Desktop/AMM Project/styles.sass */
+.bg-grey {
+  background: #f5f5f5;
+  padding: 0 10px 10px; }
